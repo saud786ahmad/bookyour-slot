@@ -1,0 +1,111 @@
+body{
+    background: rgb(243, 226, 240);
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      color:white;
+    }
+    
+    .container{
+      display:flex;
+        align-items:center;
+        justify-content:center;
+        height:100vh;
+        width:50%;
+    }
+    /* input[type=email] {
+      padding: 10px;
+      border-radius: 10px;
+      background-color: #c5e6d2 !important;
+      color: #2e332f !important;
+    }
+    input[type=password] {
+      padding: 10px;
+      border-radius: 10px;
+      background-color: #c5e6d2 !important;
+      color: #2e332f !important;
+    } */
+   
+    
+    .loginbutton{
+      margin-top:10px;
+      margin-bottom:10px;
+      background-color: #279cf5;
+      color: #002b5c;
+      border-radius: 10px;
+      width: 100px;
+      height: 35px;
+      font-weight: bold;
+    }
+    .disableLoginBtn {
+      margin-top:10px;
+      margin-bottom:10px;
+      background-color: rgb(232, 232, 232);
+      color: #858585;
+      border-radius: 10px;
+      width: 100px;
+      height: 35px;
+      cursor: not-allowed;
+      font-weight: bold;
+    }
+    .card-group>.card {
+      margin: orem;
+    }
+    
+    .anchoerText{
+      color: #acd1e9;
+    }
+    .loginiconImg{
+      width: 25px;
+      height: 25px;
+      position: absolute;
+      top: 40px;
+      font-size: 10px;
+      right: 10px;
+      float: right;
+    }
+    
+    .loginCustomError{
+      color:red;
+      font-size: 20px;
+      float: left;
+    }
+  
+    @media only screen and (max-device-width: 414px) and (min-device-width: 248px){
+      .loginiconImg{
+        width: 6%;
+        position: relative;
+        top: -41px;
+        float: right;
+      }
+    }  
+    
+  .cardLeft{
+    height: 100%;
+    background-color: #673fb1 !important;
+  }
+  
+  .cardLeft-img{
+     width: 35%;
+     border-radius: 50%;
+  }
+  
+  .cardLeft-title{
+    margin-top: 12%;
+    font-weight: 900;
+    font-size: 28px;
+    color: white;
+  }
+  
+  .cardLeft-title-signup{
+    margin-top: 12%;
+    font-weight: 900;
+    font-size: 25px;
+    color:white;
+  }
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,89 @@
+.interviewApp{
+  color: black;
+  margin: 5% 10% 0% 9%;
+}
+.interViewAText {
+  background-color: #636c71;
+  color: #f4e459;
+}
+.cardPillStyle {
+  background-color: #eb87ea;
+  
+}
+.timePill {
+  padding: 10px;
+  margin-left: 20px;
+}
+.atimeCardStyle {
+  color: black;
+  background-color: #FFFFFF;
+}
+.marginTop{
+  margin-top: 2%;
+}
+.bigCardStyles{
+  color: black;
+  background-color: #FFFFFF;
+  height: 30vh;
+  border-radius:30px;
+  width: 50vh;
+}
+.dot {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 50%;
+  display: inline-block;
+}
+.margin-left{
+  margin-left: 10%;
+}
+.margin-top-big-card{
+  margin-top: 8%;
+}
+.card-label-bg-color-green{
+   background-color: rgb(0, 204, 0);
+   padding:5px;
+}
+.card-label-bg-color-light-green{
+  background-color:  #80ff80;
+  padding:5px;
+}
+.card-label-bg-color-light-red{
+  background-color:  #ff9999;
+  padding:5px;
+}
+
+
+
+
+.bg-white {
+  background-color: white;
+}
+
+.border-radius-5 {
+  border-radius: 5px;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+.fullstackDeveloper__text {
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.interView__slot__container {
+  border-radius: 15px;
+  background-color: white;
+  width: 100%;
+}
+
+.interview__user__details > p {
+  margin: 0;
+} 

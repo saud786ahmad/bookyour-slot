@@ -1,0 +1,35 @@
+body{
+    color: #181818;
+    background-color: #fff;
+}
+.banner{
+    background: #B993D6;
+    background: -webkit-linear-gradient(to right, #8CA6DB, #B993D6);
+    background: linear-gradient(to right, #8CA6DB, #B993D6);
+    background-repeat: no-repeat;
+    height: 100vh;
+    max-height: 600px;
+    padding-top: 90px !important;
+}
+.navbar{
+    background: #B993D6;
+    background: -webkit-linear-gradient(to right, #8CA6DB, #B993D6);
+    background: linear-gradient(to right, #8CA6DB, #B993D6);
+}
+.tall-margin{
+    padding-top: 90px !important;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style: none;
+}
+.resp-card{
+    padding: 60px 40px;
+    background-color:#8CA6DB;
+    max-width: 600px;
+    margin:0 auto;
+    border-radius: 20px;
+}

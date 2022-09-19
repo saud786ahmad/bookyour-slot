@@ -1,0 +1,138 @@
+
+body{
+    background: rgb(171, 182, 228);
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      overflow: auto;
+      overflow-x: hidden;
+      /* color:white; */
+     
+    }
+
+    .heading
+ {
+    color: rgb(12, 11, 12);
+    margin-top: 10px;
+    font-weight: 900;
+    margin-left: 10px;
+ }
+
+ .sub-heading{
+    margin-left: 40%;
+    color:#0e0b0b;
+    font-weight:'bold';
+ }
+
+  /* .card-item{
+    margin: 5%;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    text-align: center;
+    font-weight: 600;
+    font-size:30px;
+    border-radius: 40px;
+
+    
+ }  */
+
+ .cards{
+    width:200rem;
+ }
+ .col-md-8
+ {
+    padding: 0px!important;
+   
+ }
+
+.maincard{
+    background-color: #837cec;
+    width:50rem;
+    min-height: 700px;
+   
+   
+    
+} 
+
+.minicard{
+    background-color: lightgray;
+    width:20rem;
+    padding-bottom: 15%;
+    height:auto;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    padding-left: 9%;
+    padding-right: 9%;
+    margin-top: 20%;
+
+} 
+.mainText {
+    color: black;
+    background-color: #e3aeda;
+    width: 20%;
+    margin-top: 5% !important;
+    margin: auto;
+   
+}
+
+.subText {
+    color: black;
+    background-color: #FFFFFF;
+    width: 12%;
+    margin: auto;
+    margin-top: 1%;
+}
+.subTextCard {
+    padding: 10px;
+    font-size: 30px;
+}
+/* .mainTextCard {
+    padding: 10px;
+    font-size: 30px;
+} */
+
+.card-body {
+    color: black;
+}
+
+.cardStyle {
+    color: black;
+    background-color: #FFFFFF;
+    height: 100%;
+    padding: 20px;
+}
+
+.cardTitle{
+    padding: 10px;
+    font-size: 24px;
+}
+
+.marginTop{
+    margin-top: -400px;
+}
+.container {
+    height: 0vh!important;
+}
+ @media only screen and (max-width:480px) {
+    .mainText {
+        color: black;
+        background-color: #e3aeda;
+        width: 90%;
+        margin-top: 5% !important;
+        margin: auto;
+    } 
+
+    .subText {
+        color: black;
+        background-color: #FFFFFF;
+        width: 50%;
+        margin: auto;
+        margin-top: 3%;
+    }
+
+    .marginTop{
+        margin-top: 0px;
+    }
+}

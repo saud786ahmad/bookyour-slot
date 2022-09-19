@@ -1,0 +1,84 @@
+.availability__slots__content {
+    background-color: #DAD3EC;
+    height: 100vh;
+}
+
+.availability__slots__welcome__interviewer__text {
+    color: #484AB7;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -90px;
+}
+
+.availability__slots__date__text {
+    color: #484AB7;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.availability__slots__date_day__text {
+    font-size: 15px;
+}
+
+.availability__slots__container {
+    border: 1px solid #7074CA;
+    border-radius: 10px;
+    background-color: #C9BEE8;
+    padding: 40px;
+    height: 80vh;
+    
+}
+
+.availability__slots__btn {
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #8356C1;
+}
+
+/* .availability__slots__list__container {
+    max-height: 60vh;
+    overflow-y:auto
+} */
+
+.availability__slots__add__slot {
+    border-radius: 5px;
+    font-weight: bold;
+   
+}
+
+.availability__slots__list__item {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 5px;
+  position: relative;
+}
+
+.availability__slots__slot {
+    border-radius: 5px;
+    background-color: #fff;
+    border: 2px solid #484AB7;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin: 5px
+}
+.bg-red {
+    background-color: red;
+    justify-content: center;
+}
+
+.bg-green {
+    background-color: #1EB321;
+    justify-content: center;
+}
+.my-modal .modal-content {
+    background-color: #8356C1;
+    border-radius: 2em;
+    padding: 1rem;
+  }
+
+
+
